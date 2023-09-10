@@ -1,0 +1,66 @@
+.heading-setting{
+    width: 250px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+    border-radius: 10px;
+    border-style: solid;
+    background-color: rgb(12, 182, 182);
+}
+#famous-dishes-heading{
+    width: 500px;
+    background-color:rgb(12, 182, 182);
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    border-radius: 10px;
+    border-style: solid;
+}
+.table-setting{
+    text-align: center;
+    margin-left:auto;
+    margin-right: auto;
+}
+.famous-image-setting{
+    height:200px;
+    width:200px;
+    object-fit:cover;
+}
+.image-setting{
+    height:100px;
+    width:100px;
+    object-fit:cover;
+}
+.embed-setting{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+#page-color{
+    background-color: aqua;
+}
+.background-color-iframe{
+    background-color: #8FDCE0;
+}
+#background-color-famous-dishes{
+    background-color:#DBDA51;
+}
+#background-color-soup{
+    background-color: #A6B9A9;
+}
+#background-color-salad{
+    background-color:#BA93CB ;
+}
+#background-color-main-coures{
+    background-color:#8FEDEA ;
+}
+#background-color-rice{
+    background-color:#D3F777 ;
+}
+#background-color-drink{
+    background-color: #D098F1;
+}
+
+
